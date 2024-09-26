@@ -689,10 +689,6 @@ section {
         padding: 1.5rem 9%;
     }
 
-    .navbar a.click {
-        margin-left: 25rem
-    }
-
     .navbar{
         display: flex;
         white-space: nowrap;
@@ -966,10 +962,6 @@ section {
         padding: 1.2rem 5%;
     }
 
-    .navbar a.click{
-        margin-left: 10rem;
-    }
-
     section{
         padding: 7rem 5% 2rem;
     }
@@ -1080,11 +1072,6 @@ section {
         display: inline-flex;
         font-size: 1.2rem;
         line-height: 30px;
-    }
-
-    .navbar a.click{
-        margin-left: 0rem;
-
     }
     
     .image{
